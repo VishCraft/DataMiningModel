@@ -1,9 +1,9 @@
 # DataMiningModel
 Built a Data Mining System, From Data Cleaning to Model Evaluation.
 
-
 Diabetes Data Mining Project
 Overview
+
 This project focuses on building a comprehensive data mining system for diabetes prediction, from data cleaning to model evaluation. The dataset used is sourced from Kaggle, containing information about individuals, including attributes like pregnancies, glucose concentration, blood pressure, skin thickness, insulin levels, BMI, diabetes pedigree function, and age. The goal is to predict the presence or absence of diabetes (1 or 0) for each individual.
 
 Key Steps
@@ -36,3 +36,19 @@ Paste it into the cells of your Jupyter Notebook.
 Run the Notebook:
 Run each cell sequentially using Shift + Enter.
 Check the output for visualizations and results.
+
+
+Some Screenshots for the visualization are shown below:
+
+![vis1](https://github.com/VishCraft/DataMiningModel/assets/144891820/f2c1b751-fd7b-4065-aef9-3c34175ea479)
+
+![vis2](https://github.com/VishCraft/DataMiningModel/assets/144891820/e7550fca-4abb-485c-b445-91543d44a520)
+
+
+![vis3](https://github.com/VishCraft/DataMiningModel/assets/144891820/91dce693-6b7d-4ad3-98a4-7c97c0eefa46)
+
+Public Data Set Link Used in this project : https://www.kaggle.com/datasets/ashishkumarjayswal/diabetes-dataset 
+(Credits the Author : Ashish Kumar Jayswal for the Data Set Link) 
+
+
+
