@@ -48,7 +48,7 @@ Some Screenshots for the visualization are shown below:
 ![vis3](https://github.com/VishCraft/DataMiningModel/assets/144891820/91dce693-6b7d-4ad3-98a4-7c97c0eefa46)
 
 Public Data Set Link Used in this project : https://www.kaggle.com/datasets/ashishkumarjayswal/diabetes-dataset 
-(Credits the Author : Ashish Kumar Jayswal for the Data Set Link) 
+(Credits-Author for Dataset : Ashish Kumar Jayswal) 
 
 
 
